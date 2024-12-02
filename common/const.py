@@ -1,0 +1,4 @@
+PATH_LOGS = "./logs"
+PATH_RESULTS_LOGS_SAVE = "./results"
+START_MSG = "START"
+END_MSG = "END"
